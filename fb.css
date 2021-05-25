@@ -1,0 +1,23 @@
+body{
+    background-color: lightgray;
+}
+h1{ 
+    text-align:center;
+    margin-top: auto;
+    text-decoration: dotted;
+    font-family:'franklin gothin medium','Arial Narrow',Arial, sans-serif;
+}
+img{
+    text-align: end;
+}
+.box{
+    width: 20%;
+    height: 40;
+    background-color: white;
+    margin: 10%;
+    margin-left: 40%;
+    
+}
+input{
+    text-align: center;
+}
